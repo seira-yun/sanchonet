@@ -59,16 +59,6 @@
     "email": {
       "@value": "seira0819@gmail.com"
     },
-    "references": [
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://x.com/seira_yun"
-        }
-      }
-    ]
+    "references": []
   }
 }
