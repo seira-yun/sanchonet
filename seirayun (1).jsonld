@@ -51,31 +51,22 @@
   },
   "body": {
     "bio": {
-      "@value": "Seira Yun is a Cardano Ambassador, an SPO and the Founder of Socious, a decentralized talent marketplace on Cardano. Seira is a serial impact entrepreneur with years of experience in the impact sector, leading teams within the ICRC, the UNHCR, and social ventures. As a full-stack developer with a Master's degree in Social Innovation from the University of Cambridge, Seira enjoys blending technology with purpose."
+      "@value": "Test"
     },
     "dRepName": {
       "@value": "seirayun"
     },
     "email": {
-      "@value": "yun@socious.io"
+      "@value": "seira0819@gmail.com"
     },
     "references": [
       {
         "@type": "Other",
-        "CIPQQQ:reference-label": {
+        "label": {
           "@value": "Label"
         },
-        "CIPQQQ:reference-uri": {
+        "uri": {
           "@value": "https://x.com/seira_yun"
-        }
-      },
-      {
-        "@type": "Other",
-        "CIPQQQ:reference-label": {
-          "@value": "Label"
-        },
-        "CIPQQQ:reference-uri": {
-          "@value": "https://www.linkedin.com/in/seirayun/"
         }
       }
     ]
